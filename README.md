@@ -17,7 +17,7 @@ This repository presents a high-level case study of my work on the product. The 
 ![ScoutForge application detail interface](assets/scoutforge-app-detail-1.png)
 ![ScoutForge application detail interface](assets/scoutforge-app-detail-2.png)
 
-### Product Workflow
+### Reddit Leads
 
 ![ScoutForge product workflow](assets/scoutforge-leads-1.png)
 ![ScoutForge product workflow](assets/scoutforge-leads-2.png)
