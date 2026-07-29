@@ -16,19 +16,28 @@ The public discovery experience helps users explore software products through se
 ---
 
 ### Application Detail Page
+Application detail pages bring together product descriptions, ratings, categories, screenshots, ownership information, and related actions in a structured interface. I was responsible for the UI/UX design, responsive implementation, data presentation, and frontend integration of these pages.
 
 ![ScoutForge application detail interface](assets/scoutforge-app-detail-1.png)
 ![ScoutForge application detail interface](assets/scoutforge-app-detail-2.png)
 
+---
+
 ### Reddit Leads
+ScoutForge includes product-oriented workflows such as user onboarding, listing claims, promotions, and Reddit lead discovery. I designed and implemented the frontend flows, forms, validation states, feedback messages, and API integrations required to guide users through these multi-step processes.
 
 ![ScoutForge product workflow](assets/scoutforge-leads-1.png)
 ![ScoutForge product workflow](assets/scoutforge-leads-2.png)
 ![ScoutForge product workflow](assets/scoutforge-leads-3.png)
 
+---
+
 ### Multi-Module Admin Panel
+The internal admin platform supports application management, user and claim operations, content review, promotions, moderation, and AI-assisted research workflows with human approval. I designed and developed the multi-module admin interface, including data tables, filters, forms, status controls, and operational dashboards.
 
 ![ScoutForge admin platform](assets/scoutforge-admin.png)
+
+---
 
 ## My Role
 
