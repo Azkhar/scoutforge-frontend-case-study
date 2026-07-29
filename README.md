@@ -37,8 +37,6 @@ The internal admin platform supports application management, user and claim oper
 
 ![ScoutForge admin platform](assets/scoutforge-admin.png)
 
----
-
 ## My Role
 
 **Co-Founder | Frontend & Product Engineer**
