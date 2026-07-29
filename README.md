@@ -4,6 +4,29 @@ ScoutForge is a software discovery platform featuring more than 2,500 listed app
 
 This repository presents a high-level case study of my work on the product. The production source code is private and is not included.
 
+## Product Preview
+
+### Software Discovery Experience
+
+![ScoutForge software discovery interface](assets/scoutforge-discovery-1.png)
+![ScoutForge software discovery interface](assets/scoutforge-discovery-2.png)
+![ScoutForge software discovery interface](assets/scoutforge-discovery-3.png)
+
+### Application Detail Page
+
+![ScoutForge application detail interface](assets/scoutforge-app-detail-1.png)
+![ScoutForge application detail interface](assets/scoutforge-app-detail-2.png)
+
+### Product Workflow
+
+![ScoutForge product workflow](assets/scoutforge-leads-1.png)
+![ScoutForge product workflow](assets/scoutforge-leads-2.png)
+![ScoutForge product workflow](assets/scoutforge-leads-3.png)
+
+### Multi-Module Admin Panel
+
+![ScoutForge admin platform](assets/scoutforge-admin.png)
+
 ## My Role
 
 **Co-Founder | Frontend & Product Engineer**
