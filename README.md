@@ -1,4 +1,4 @@
-# ScoutForge - Frontend & Product Case Study
+# ScoutForge — Frontend & Product Case Study
 
 ScoutForge is a software discovery platform featuring more than 2,500 listed applications and over 1,000 registered users.
 
