@@ -7,10 +7,13 @@ This repository presents a high-level case study of my work on the product. The 
 ## Product Preview
 
 ### Software Discovery Experience
+The public discovery experience helps users explore software products through searchable listings, categories, filters, and curated product information. I designed and developed the responsive frontend, reusable listing components, navigation structure, and product discovery flows.
 
 ![ScoutForge software discovery interface](assets/scoutforge-discovery-1.png)
 ![ScoutForge software discovery interface](assets/scoutforge-discovery-2.png)
 ![ScoutForge software discovery interface](assets/scoutforge-discovery-3.png)
+
+---
 
 ### Application Detail Page
 
